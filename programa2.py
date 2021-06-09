@@ -7,3 +7,4 @@ def test(x: str):
 test("Hola")
 test("Como estas?")
 test("Chao")
+test(10)
